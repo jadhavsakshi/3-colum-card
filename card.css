@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:100px;
+    padding-left: 300px;
+    padding-right: 300px;
+    
+
+    
+}
+
+.card{
+    height: 30rem;
+    width:25rem;
+    background-color: hsl(31, 77%, 52%);
+    justify-content: space-between;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+.card-img{
+    margin-top:30px;
+    margin-left: 30px;
+}
+h2{
+    font-family: 'Big Shoulders Display', cursive;
+    padding:30px;
+    color: white;
+    
+     
+}
+.card-img2{
+    margin-top:30px;
+    margin-left: 30px;
+}
+.card-img3{
+    margin-top:30px;
+    margin-left: 30px;
+}
+ 
+button{
+    padding: 15px 30px;
+    border-radius: 20px;
+    display: block;
+    margin-left: 50px;
+    border: none;
+}
+.bt1{
+    color:hsl(31, 77%, 52%);
+}
+.bt2{
+    color: hsl(184, 100%, 22%);
+}
+.bt3{
+    color:hsl(179, 100%, 13%);
+}
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    padding:30px;
+    line-height: 1.8;
+    color: white;
+    font-weight: 400;
+    
+}
+
+
+.card2{
+    height: 30rem;
+    width:25rem;
+    background-color: hsl(184, 100%, 22%);
+    
+}
+.card3{
+    height: 30rem;
+    width:25rem;
+    background-color: hsl(179, 100%, 13%);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+
+
+
+
+
+
